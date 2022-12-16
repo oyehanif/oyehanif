@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/oye_hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyehanif" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hanif-shaikh-916282211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oyehanif" height="30" width="40" /></a>
-<a href="hhttps://stackoverflow.com/users/19493508/hanif-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oyehanif" height="30" width="40" /></a>
+<a href="https://twitter.com/oye_hanif" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="oyehanif" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hanif-shaikh-916282211/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt="oyehanif" height="30" width="40" /></a>
+<a href="hhttps://stackoverflow.com/users/19493508/hanif-shaikh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzq9tjQWLBfclWBq2txRsvbJVSmLl5ODKYRzRnIBN4DQ&s" alt="oyehanif" height="30" width="40" /></a>
 <a href=https://www.instagram.com/oyehanif/?hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="oyehanif" height="30" width="40" /></a>
 
 </p>
